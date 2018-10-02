@@ -1,0 +1,2 @@
+# FinC
+Finance control app
